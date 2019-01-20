@@ -1,0 +1,40 @@
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+li{
+	float: right;
+}
+
+li a{
+	display: block;
+	padding: 8px;
+}
+img{
+	margin-top: 300px;
+	margin-left: 450px;
+}
+
+.search{
+	margin-left: 425px;
+}
+#search-site{
+    position: relative;
+    width: 500px;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.btn{
+	width: 150px;
+	border: 2px solid #808080;
+
+}
+
+footer{
+	padding-bottom: 15px;
+}
