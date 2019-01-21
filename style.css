@@ -21,17 +21,40 @@ img{
 	margin-left: 425px;
 }
 #search-site{
-    position: relative;
+/*    position: relative;
     width: 500px;
     padding-top: 10px;
     margin-top: 10px;
-    margin-bottom: 10px;
-
+    margin-bottom: 10px;*/
+    cursor: text;
+    background-color: transparent;
+    color: rgba(191, 191, 191, 0.87);
+    display: flex;
+    width: 420px;
+    height: 34px;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    font: 16px arial, sans-serif;
+    flex: 1 1 100%;
+    outline: none;
 }
 
 .btn{
-	width: 150px;
-	border: 2px solid #808080;
+/*	width: 150px;
+	border: 2px solid #808080;*/
+	height: 36px;
+    background-color: rgb(38, 38, 38);
+    color: rgb(191, 191, 191);
+    font-weight: bold;
+    font-size: 13px;
+    text-align: center;
+    box-sizing: border-box;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(38, 38, 38);
+    border-image: initial;
 
 }
 
